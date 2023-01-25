@@ -35,8 +35,10 @@ body{
     flex-direction: column;
 }
 
-img{
+#container img{
     padding: 20px;
+    width: 80%;
+    max-width: 450px;
 }
 
 form{
